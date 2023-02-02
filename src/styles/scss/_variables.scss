@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Sarabun:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+$font-primary: "Roboto", sans-serif;
+$font-secondary: "Sarabun", sans-serif;
+
+$font-size-sm: 0.875rem;
+$font-size-xxs: 0.625rem;
+$font-size-xs: 0.8125rem;
+$font-size-base: 1rem;
+$font-size-lg: 1.25rem;
+$font-size-xl: 2.25rem;
+$font-size-xxlg: 3.5rem;
+
+// Colors
+$purple: #8744E1;
+$cyan: #5CCFFE;
+$yellow: #FBBA6D;
+$black: #313131;
+$green: #1BD8BA;
+$red: #FE718E;
+$white: #FFFFFF;
+$primaryGray: #FAFAFA;
+$secondaryGray: #F5F5F5;
+$tertiaryGray: #BDBDBD;
+
+// Transparent Colors
+$darkBg: #17142A;
+$darkPrimaryCard: #28253B;
+$darkSecondaryCard: #201D33;
+$purpleTransparent: rgba(135, 68, 225, 0.25);
+$redTransparent: rgba(254, 113, 142, 0.25);
+$cyanTransparent: rgba(92, 207, 254, 0.25);
+
+// Grandient Color
+$purplePrimaryLinear: linear-gradient(202.58deg, #8744E1 35.44%, #61379A 86.68%);
+$cyanPrimaryLinear: linear-gradient(127deg, #5CCFFE 19.17%, #3C95B9 81.45%);
+$purpleMixedCyanLinear: linear-gradient(181.44deg, #8744E1 -15.99%, #5CCFFE 140.74%);
